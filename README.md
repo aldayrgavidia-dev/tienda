@@ -101,6 +101,14 @@ flowchart TD
 - [ ] Mejorar la documentación del proyecto.
 - [ ] Mantener actualizado el repositorio.
 
+
+## Correcciones realizadas
+
+Durante el Laboratorio 03 se identificaron y corrigieron dos errores:
+
+- **Cálculo del carrito:** se corrigió el cálculo del total considerando el precio y la cantidad de productos.
+- **Estilos CSS:** se corrigió la referencia al archivo CSS para que los estilos se cargaran correctamente.
+
 ## Contribuciones
 
 Si deseas reportar un error o proponer una mejora, revisa nuestra guía:
